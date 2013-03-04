@@ -1,4 +1,4 @@
 python-learning
 ===============
 
-backup from python initial exercises
+backup from python initial exercises from codingbat.com
